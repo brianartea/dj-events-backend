@@ -10,8 +10,8 @@ Icon
 .Trashes
 ._*
 
-.vscode
-yarn.lock
+# .vscode
+# yarn.lock
 
 
 ############################
